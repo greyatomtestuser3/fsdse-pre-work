@@ -35,17 +35,9 @@ You are already using Ubuntu? Just make sure you are using 16.04 LTS and you are
 
 You can follow any one of the following strategies:
 
-1. Use the Installer to setup Commit.Live IDE in Windows
+* Use the Installer to setup Commit.Live IDE in Windows (For Windows 10 , Windows 7 limited feature set)
     - [Install Commit.Live IDE](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.14/CommitLive.exe)
-2. Erase everything and install Ubuntu 16.04 to replace Windows
-    - [Steps to Install Ubuntu 16.04 LTS (Xenial Xerus) with Screenshots](http://www.linuxtechi.com/install-ubuntu-16-04-with-screenshots/)
-    - [Install Ubuntu desktop](https://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-    - [Ubuntu Installation Guide](https://help.ubuntu.com/lts/installation-guide/amd64/index.html)
-3. Setup Dual-Boot (you'll have both Windows and Ubuntu 16.04 in your machine)
-    - Make sure you have someone experienced to assist you
-    - [The Ultimate Windows And Ubuntu Dual Boot Guide](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
-    - [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](http://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)
-    - [Installing Ubuntu Alongside a Pre-Installed Windows with UEFI](https://askubuntu.com/questions/221835/installing-ubuntu-alongside-a-pre-installed-windows-with-uefi)
+
 
 Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**.
 
