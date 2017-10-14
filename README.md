@@ -17,7 +17,7 @@ The material in the *Pre-Reading Material* section is optional, but highly recom
 # Setting up your operating system
 * Minimum system requirements for the laptop to be used during the course - 64 bit system, minimum 4 GB RAM, i3 and above processor
 
-* You can use either the Mac OS or Ubuntu 16.04 while working through the program.
+* You can use either the Windows/ Mac OS/ Ubuntu 16.04 while working through the program.
 * A note on hardware: your machine should have the `amd64` architecture. If you are not using an ancient machine, you should be fine.
 
 ## Mac OS
@@ -35,15 +35,17 @@ You are already using Ubuntu? Just make sure you are using 16.04 LTS and you are
 
 You can follow any one of the following strategies:
 
-1. Erase everything and install Ubuntu 16.04 to replace Windows
-    - http://www.linuxtechi.com/install-ubuntu-16-04-with-screenshots/
-    - https://www.ubuntu.com/download/desktop/install-ubuntu-desktop
-    - https://help.ubuntu.com/lts/installation-guide/amd64/index.html
-2. Setup Dual-Boot (you'll have both Windows and Ubuntu 16.04 in your machine)
+1. Use the Installer to setup Commit.Live IDE in Windows
+    - [Install Commit.Live IDE](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.14/CommitLive.exe)
+2. Erase everything and install Ubuntu 16.04 to replace Windows
+    - [Steps to Install Ubuntu 16.04 LTS (Xenial Xerus) with Screenshots](http://www.linuxtechi.com/install-ubuntu-16-04-with-screenshots/)
+    - [Install Ubuntu desktop](https://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+    - [Ubuntu Installation Guide](https://help.ubuntu.com/lts/installation-guide/amd64/index.html)
+3. Setup Dual-Boot (you'll have both Windows and Ubuntu 16.04 in your machine)
     - Make sure you have someone experienced to assist you
-    - https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654
-    - http://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/
-    - https://askubuntu.com/questions/221835/installing-ubuntu-alongside-a-pre-installed-windows-with-uefi
+    - [The Ultimate Windows And Ubuntu Dual Boot Guide](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
+    - [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](http://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)
+    - [Installing Ubuntu Alongside a Pre-Installed Windows with UEFI](https://askubuntu.com/questions/221835/installing-ubuntu-alongside-a-pre-installed-windows-with-uefi)
 
 Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**.
 
@@ -95,4 +97,4 @@ Reading is one way of getting you to think about things that you wouldn't otherw
 There's so much to know! We all learn from one another. Embrace opportunities to learn from others, and opportunities to share what you know.
 ### Communicate early and often.
 We want to know what you're thinking
-0
+
