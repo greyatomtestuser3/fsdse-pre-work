@@ -36,7 +36,7 @@ You are already using Ubuntu? Just make sure you are using 16.04 LTS and you are
 You can follow any one of the following strategies:
 
 * Use the Installer to setup Commit.Live IDE in Windows (For Windows 10 , Windows 7 limited feature set)
-    - [Install Commit.Live IDE](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.14/CommitLive.exe)
+    - [Install Commit.Live IDE](https://github.com/greyatom-edu-tech/greyatom-ide/releases/latest/)
 
 
 Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**.
