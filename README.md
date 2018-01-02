@@ -31,17 +31,13 @@ We'll be using `Homebrew` to install and manage packages.
 
 You are already using Ubuntu? Just make sure you are using 16.04 LTS and you are all set.
 
-## If you have Windows
+In case you are new to Ubuntu, [here is a guide](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts) to get started.Installation related help available on [Ubuntu Forums](https://ubuntuforums.org/) and [StackOverflow](https://stackoverflow.com/)
 
-You can follow any one of the following strategies:
+## Windows
 
-* Use the Installer to setup Commit.Live IDE in Windows (For Windows 10 , Windows 7 limited feature set)
-    - [Install Commit.Live IDE](https://github.com/greyatom-edu-tech/greyatom-ide/releases/latest/)
-
+You can use any given Windows version: Win7, Win8/8.1 or Win10.
 
 Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**.
-
-In case you are new to Ubuntu, [here is a guide](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts) to get started.Installation related help available on [Ubuntu Forums](https://ubuntuforums.org/) and [StackOverflow](https://stackoverflow.com/)
 
 # Setting up Version Controlling System (Git and GitHub)
 
