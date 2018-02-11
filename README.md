@@ -67,6 +67,7 @@ Here are few resources that help you stand out from the rest
 
 ## Programming
 * [Python for Data Science - 12 Hours](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8)
+* [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers
 
 ## Machine Learning
 * [A Friendly Introduction to Machine Learning  - 30 Minutes](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=1232s)
@@ -81,12 +82,6 @@ We will share many more, when in the course, but here are some very good startin
 * [KDnuggets](http://www.kdnuggets.com/)
 * [The Guardian](https://www.theguardian.com/data)
 * [yhat](http://blog.yhat.com/)
-
-## Optional
-You're also more than welcome to do the following if you're keen to get extra advanced for your the course, these concepts will be covered in the class as well :
-
-* [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers
-* [Khan Academy: Probability & Statistics](https://www.khanacademy.org/math/probability)
 
 
 # Community and Meetups
