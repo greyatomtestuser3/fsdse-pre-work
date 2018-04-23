@@ -59,8 +59,6 @@ Here are few resources that help you stand out from the rest
 
 ## Introduction to Data Science
 
-* [The Field Guide to Data Science -  60 Mins](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf)
-
 ## Math & Statistics
 * [Basics of Statistics & Probability - 10 Hours (Tip - watch the videos on 1.5x speed)](https://www.khanacademy.org/math/statistics-probability)
 
